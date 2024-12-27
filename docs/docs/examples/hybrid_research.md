@@ -40,6 +40,7 @@ os.environ['TAVILY_API_KEY'] = 'your_tavily_api_key_here'
 
 ## Preparing Local Documents
 
+### Local Documents
 1. Create a directory named `my-docs` in your project folder.
 2. Place all relevant local documents (PDFs, TXTs, DOCXs, etc.) in this directory.
 
